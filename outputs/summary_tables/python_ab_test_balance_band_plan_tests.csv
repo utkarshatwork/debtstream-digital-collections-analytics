@@ -1,0 +1,4 @@
+balance_band,metric,control_rate_percent,variant_rate_percent,lift_percentage_points,z_statistic,p_value,significance,direction
+Low,Plan Setup Rate - Low Balance,2.7108,6.9486,4.2378,2.5456,0.0109,Statistically significant,Variant higher
+Medium,Plan Setup Rate - Medium Balance,8.2687,12.6882,4.4194,2.0795,0.0376,Statistically significant,Variant higher
+High,Plan Setup Rate - High Balance,7.619,11.3744,3.7554,1.3139,0.1889,Not statistically significant,Variant higher

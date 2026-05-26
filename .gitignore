@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI temp files
+*.pbix.lock 

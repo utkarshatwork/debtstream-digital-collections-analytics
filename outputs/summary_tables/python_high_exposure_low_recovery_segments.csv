@@ -1,0 +1,7 @@
+balance_band,debt_age_band,total_customers,total_outstanding_balance,total_amount_collected,recovery_rate,payment_conversion_rate,plan_setup_rate,broken_plan_rate
+High,91-180,595,1205166.39,45961.66,3.81,11.09,8.07,41.67
+High,181-365,535,1087594.45,31472.18,2.89,7.85,6.92,43.24
+Very High,181-365,184,1042260.74,10635.3,1.02,4.35,2.17,50.0
+Very High,91-180,166,906339.41,7314.86,0.81,6.02,4.82,75.0
+Very High,365+,122,682843.71,4763.69,0.7,3.28,2.46,66.67
+High,365+,303,617653.11,9026.41,1.46,5.61,4.95,86.67

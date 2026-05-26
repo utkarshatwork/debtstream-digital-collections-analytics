@@ -1,0 +1,9 @@
+stage_order,funnel_stage,customers,previous_stage_customers,stage_to_stage_conversion_percent,stage_drop_off_percent
+2,Invite Sent,10000,10000,100.0,0.0
+3,Invite Delivered,9772,10000,97.72,2.28
+4,Link Opened,3695,9772,37.81,62.19
+5,Identity Verified,2458,3695,66.52,33.48
+6,Balance Viewed,2238,2458,91.05,8.95
+7,Payment Option Selected,1817,2238,81.19,18.81
+8,Payment Made,1206,1817,66.37,33.63
+9,Repayment Plan Created,743,1206,61.61,38.39

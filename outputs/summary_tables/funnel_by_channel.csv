@@ -1,0 +1,5 @@
+primary_channel,total_customers,invite_delivered_customers,link_opened_customers,identity_verified_customers,balance_viewed_customers,payment_option_selected_customers,payment_made_customers,repayment_plan_created_customers,link_open_rate,verification_after_open_rate,payment_conversion_rate,plan_setup_rate
+SMS,5922,5814,2390,1604,1461,1181,797,494,41.11,67.11,13.71,8.5
+Email,3015,2908,1022,684,625,507,330,206,35.14,66.93,11.35,7.08
+Letter,1058,1045,279,166,148,125,76,40,26.7,59.5,7.27,3.83
+Agent Referral,5,5,4,4,4,4,3,3,80.0,100.0,60.0,60.0

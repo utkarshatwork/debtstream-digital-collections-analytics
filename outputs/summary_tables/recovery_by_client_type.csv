@@ -1,0 +1,7 @@
+client_type,total_customers,total_outstanding_balance,total_amount_collected,recovery_rate,payment_conversion_rate,plan_setup_rate,broken_plan_rate
+Telecoms,781,537453.6,32266.62,6.0,14.08,9.09,35.21
+Consumer Lender,2426,2351167.18,101192.96,4.3,14.34,8.53,40.1
+Utility Provider,3494,3483258.27,114680.79,3.29,11.71,8.24,40.97
+Debt Collection Agency,2003,2048740.42,62040.86,3.03,10.23,6.74,38.52
+Debt Purchaser,933,1053511.42,16325.0,1.55,4.93,2.79,46.15
+Legal Collections,363,522471.17,4412.19,0.84,4.96,4.41,68.75

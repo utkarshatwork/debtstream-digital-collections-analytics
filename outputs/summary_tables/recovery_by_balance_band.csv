@@ -1,0 +1,5 @@
+balance_band,total_customers,avg_debt_balance,total_outstanding_balance,total_amount_collected,recovery_rate,payment_conversion_rate,one_off_payment_rate,plan_setup_rate,broken_plan_rate
+Low,3508,148.15,519708.92,54950.01,10.57,13.23,9.92,4.76,41.32
+Medium,4065,627.21,2549618.24,127446.13,5.0,11.22,3.32,10.06,35.7
+High,1853,2015.65,3735003.98,120160.07,3.22,10.04,3.83,8.04,48.99
+Very High,574,5561.45,3192270.92,28362.21,0.89,5.23,3.14,3.14,72.22

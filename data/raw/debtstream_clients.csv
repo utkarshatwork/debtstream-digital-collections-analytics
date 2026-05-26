@@ -1,0 +1,11 @@
+client_id,client_name,client_type,industry,go_live_date,monthly_account_volume,region_focus,integration_type,client_size
+DSC001,Northbridge Utilities,Utility Provider,Utilities,2022-05-20,1800,UK-wide,API,Enterprise
+DSC002,ClearWater Energy,Utility Provider,Utilities,2022-06-15,1200,England,Hybrid,Enterprise
+DSC003,Pioneer Credit,Consumer Lender,Financial Services,2022-04-10,900,UK-wide,API,Mid-Market
+DSC004,LendFair Finance,Consumer Lender,Financial Services,2022-07-01,750,England,API,Mid-Market
+DSC005,Resolve Collections,Debt Collection Agency,Collections,2022-06-05,1000,UK-wide,Hybrid,Enterprise
+DSC006,RecoverRight,Debt Collection Agency,Collections,2022-08-12,650,Mixed,Batch Upload,Mid-Market
+DSC007,Atlas Debt Purchase,Debt Purchaser,Collections,2022-09-01,850,UK-wide,Batch Upload,Enterprise
+DSC008,UrbanMobile,Telecoms,Telecoms,2022-06-25,700,England,API,Mid-Market
+DSC009,Barton Legal Recoveries,Legal Collections,Legal,2022-10-01,350,England,Batch Upload,Small
+DSC010,Westline Finance,Consumer Lender,Financial Services,2022-11-15,450,Wales,Hybrid,Small

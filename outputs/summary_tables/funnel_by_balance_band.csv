@@ -1,0 +1,5 @@
+balance_band,total_customers,invite_delivered_customers,link_opened_customers,identity_verified_customers,payment_option_selected_customers,payment_made_customers,repayment_plan_created_customers,link_open_rate,payment_conversion_rate,plan_setup_rate
+Low,3508,3427,1350,926,703,505,167,39.39,14.74,4.87
+Medium,4065,3961,1477,978,739,476,409,37.29,12.02,10.33
+High,1853,1826,690,444,313,192,149,37.79,10.51,8.16
+Very High,574,558,178,110,62,33,18,31.9,5.91,3.23

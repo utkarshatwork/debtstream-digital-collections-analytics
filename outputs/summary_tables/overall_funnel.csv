@@ -1,0 +1,10 @@
+stage_order,funnel_stage,customers,percent_of_uploaded_accounts
+1,Account Uploaded,10000,100.0
+2,Invite Sent,10000,100.0
+3,Invite Delivered,9772,97.72
+4,Link Opened,3695,36.95
+5,Identity Verified,2458,24.58
+6,Balance Viewed,2238,22.38
+7,Payment Option Selected,1817,18.17
+8,Payment Made,1206,12.06
+9,Repayment Plan Created,743,7.43

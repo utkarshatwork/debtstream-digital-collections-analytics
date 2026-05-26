@@ -1,0 +1,5 @@
+payment_made_flag,repayment_plan_created_flag,customers,avg_debt_balance,avg_amount_collected,avg_customer_recovery_rate,customer_status
+0,0,8685,1029.936059873345,0.0,0.0,No Payment or Plan
+0,1,179,888.4227932960894,0.0,0.0,Plan Only
+1,0,572,655.9336713286714,258.20784965034966,0.6996458041958042,Payment Only
+1,1,564,917.3504255319149,324.86441489361704,0.4372852836879432,Payment + Plan

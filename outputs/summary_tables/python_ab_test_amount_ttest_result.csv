@@ -1,0 +1,2 @@
+metric,control_avg_amount,variant_avg_amount,amount_lift,t_statistic,p_value,significance
+Amount Collected per Customer,29.9475,36.3488,6.4013,1.0981,0.2723,Not statistically significant

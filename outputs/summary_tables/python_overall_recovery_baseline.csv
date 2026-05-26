@@ -1,0 +1,11 @@
+metric,value
+Total Customer Accounts,10000.0
+Total Outstanding Balance,9996602.06
+Total Amount Collected,330918.42
+Overall Recovery Rate,3.31030902314421
+Customers with Successful Payment,1136.0
+Payment Conversion Rate,11.360000000000001
+Customers with Repayment Plan,743.0
+Plan Setup Rate,7.430000000000001
+Broken Plan Customers,301.0
+Broken Plan Rate Among Plans,40.5114401076716

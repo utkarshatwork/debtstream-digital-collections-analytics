@@ -1,0 +1,7 @@
+metric,control_successes,control_total,control_rate_percent,variant_successes,variant_total,variant_rate_percent,lift_percentage_points,z_statistic,p_value,significance,direction
+Link Open Rate,376,929,40.4736,445,1007,44.1907,3.717,1.6533,0.0983,Not statistically significant,Variant higher
+Payment Rate,103,929,11.0872,136,1007,13.5055,2.4183,1.616,0.1061,Not statistically significant,Variant higher
+One-off Payment Rate,63,929,6.7815,48,1007,4.7666,-2.0149,-1.9051,0.0568,Not statistically significant,Control higher
+Plan Setup Rate,57,929,6.1356,106,1007,10.5263,4.3907,3.4758,0.0005,Statistically significant,Variant higher
+First Instalment Paid Rate,42,929,4.521,90,1007,8.9374,4.4164,3.8516,0.0001,Statistically significant,Variant higher
+Broken Plan Rate,32,929,3.4446,27,1007,2.6812,-0.7633,-0.9762,0.329,Not statistically significant,Control higher

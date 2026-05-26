@@ -1,0 +1,6 @@
+debt_age_band,total_customers,avg_debt_age_days,total_outstanding_balance,total_amount_collected,recovery_rate,payment_conversion_rate,plan_setup_rate,broken_plan_rate
+0-30,1539,15.04,966981.59,59021.64,6.1,18.0,10.27,37.34
+31-90,2123,60.97,1569754.83,76975.36,4.9,14.13,9.14,36.08
+91-180,2842,135.63,2984044.49,91923.76,3.08,9.64,6.65,40.74
+181-365,2224,272.83,2771418.52,77746.82,2.81,9.4,6.65,44.59
+365+,1272,630.24,1704402.63,25250.84,1.48,5.97,4.25,53.7

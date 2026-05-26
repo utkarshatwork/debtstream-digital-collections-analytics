@@ -1,0 +1,63 @@
+table,column,data_type,description
+debtstream_clients.csv,client_id,Text,Unique synthetic DebtStream client ID
+debtstream_clients.csv,client_name,Text,Synthetic B2B client name
+debtstream_clients.csv,client_type,Text,"Type of client, such as Utility Provider, Consumer Lender, Debt Purchaser"
+debtstream_clients.csv,industry,Text,Client industry grouping
+debtstream_clients.csv,go_live_date,Date,Date client started using the DebtStream platform
+debtstream_clients.csv,monthly_account_volume,Integer,Approximate monthly accounts uploaded by client
+debtstream_clients.csv,region_focus,Text,Primary geographic focus
+debtstream_clients.csv,integration_type,Text,"API, Batch Upload, or Hybrid integration type"
+debtstream_clients.csv,client_size,Text,"Small, Mid-Market, or Enterprise"
+debtstream_customers.csv,customer_id,Text,Unique synthetic customer/account ID
+debtstream_customers.csv,client_id,Text,Client owning the account
+debtstream_customers.csv,account_upload_date,Date,Date account was uploaded to DebtStream
+debtstream_customers.csv,portfolio_type,Text,"Early Arrears, Late Arrears, Recoveries, Purchased Debt, Legal Collections"
+debtstream_customers.csv,debt_balance,Numeric,Outstanding balance in GBP
+debtstream_customers.csv,balance_band,Text,"Low, Medium, High, or Very High"
+debtstream_customers.csv,debt_age_days,Integer,Age of debt at upload in days
+debtstream_customers.csv,debt_age_band,Text,Debt age grouping
+debtstream_customers.csv,customer_age_band,Text,"Age band of customer, with some unknowns"
+debtstream_customers.csv,region,Text,UK region
+debtstream_customers.csv,vulnerability_flag,Integer,"1 if customer needs support-sensitive treatment, else 0"
+debtstream_customers.csv,preferred_contact_channel,Text,"SMS, Email, or Letter"
+debtstream_customers.csv,account_status,Text,"Final account state derived from engagement, payments and plans"
+debtstream_communication_events.csv,communication_id,Text,Unique communication event ID
+debtstream_communication_events.csv,customer_id,Text,Customer/account ID
+debtstream_communication_events.csv,client_id,Text,Client ID
+debtstream_communication_events.csv,sent_date,Date,Date communication was sent
+debtstream_communication_events.csv,channel,Text,"SMS, Email, Letter, or Agent Referral"
+debtstream_communication_events.csv,message_type,Text,"Initial Invite, Reminder 1, Reminder 2, Agent Follow-up"
+debtstream_communication_events.csv,ab_test_group,Text,"Control, Variant, or Not Applicable"
+debtstream_communication_events.csv,message_tone,Text,"Direct, Supportive, Informational, or Agent-Assisted"
+debtstream_communication_events.csv,delivered_flag,Integer,1 if communication was delivered/logged
+debtstream_communication_events.csv,opened_or_clicked_flag,Integer,1 if customer opened/clicked/responded
+debtstream_communication_events.csv,days_after_upload,Integer,Days between account upload and communication
+debtstream_journey_events.csv,event_id,Text,Unique digital journey event ID
+debtstream_journey_events.csv,customer_id,Text,Customer/account ID
+debtstream_journey_events.csv,client_id,Text,Client ID
+debtstream_journey_events.csv,event_date,Date,Date/time of digital journey event
+debtstream_journey_events.csv,event_name,Text,Funnel event/stage name
+debtstream_journey_events.csv,channel,Text,Channel attributed to the event
+debtstream_journey_events.csv,device_type,Text,"Mobile, Desktop, Tablet, Unknown or blank"
+debtstream_journey_events.csv,session_id,Text,Synthetic journey session ID
+debtstream_journey_events.csv,days_since_invite,Integer,Days between first invite and event
+debtstream_payments.csv,payment_id,Text,Unique payment transaction ID
+debtstream_payments.csv,customer_id,Text,Customer/account ID
+debtstream_payments.csv,client_id,Text,Client ID
+debtstream_payments.csv,payment_date,Date,Date payment was attempted
+debtstream_payments.csv,payment_amount,Numeric,Amount paid/attempted in GBP
+debtstream_payments.csv,payment_method,Text,"Card, Open Banking, Direct Debit, sometimes blank for failed payments"
+debtstream_payments.csv,payment_type,Text,One-off or Plan Instalment
+debtstream_payments.csv,payment_status,Text,"Successful, Failed, or Reversed"
+debtstream_payments.csv,days_to_payment,Integer,Days between account upload and payment
+debtstream_repayment_plans.csv,plan_id,Text,Unique repayment plan ID
+debtstream_repayment_plans.csv,customer_id,Text,Customer/account ID
+debtstream_repayment_plans.csv,client_id,Text,Client ID
+debtstream_repayment_plans.csv,plan_created_date,Date,Date repayment plan was created
+debtstream_repayment_plans.csv,plan_amount,Numeric,Amount covered by plan in GBP
+debtstream_repayment_plans.csv,instalment_amount,Numeric,Expected instalment amount in GBP
+debtstream_repayment_plans.csv,plan_length_months,Integer,Repayment plan duration
+debtstream_repayment_plans.csv,first_instalment_paid_flag,Integer,1 if first instalment paid
+debtstream_repayment_plans.csv,missed_payment_count,Integer,Number of missed instalments
+debtstream_repayment_plans.csv,plan_status,Text,"Active, Completed, Broken, Cancelled"
+debtstream_repayment_plans.csv,affordability_completed_flag,Integer,1 if affordability assessment completed before plan setup

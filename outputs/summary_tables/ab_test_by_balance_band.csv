@@ -1,0 +1,7 @@
+balance_band,ab_test_group,test_customers,link_open_rate,payment_rate,one_off_payment_rate,plan_setup_rate,total_amount_collected,avg_customer_recovery_rate
+Low,Control,332,43.07,13.86,11.45,2.71,5415.79,11.26
+Low,Variant,331,44.71,15.11,9.97,6.95,5114.51,11.83
+Medium,Control,387,37.98,8.53,3.1,8.27,9871.74,3.74
+Medium,Variant,465,44.95,13.12,2.58,12.69,14285.0,5.85
+High,Control,210,40.95,11.43,6.19,7.62,12533.7,2.74
+High,Variant,211,41.71,11.85,1.42,11.37,17203.78,3.76
