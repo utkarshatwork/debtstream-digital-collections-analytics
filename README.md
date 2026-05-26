@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  📄 <a href="docs/DebtStream_Analysis_Report.pdf"><strong>Download Full Project Report (PDF)</strong></a>
+  📄 <a href="https://github.com/utkarshisatwork/debtstream-digital-collections-analytics/raw/main/docs/DebtStream_Analysis_Report.pdf"><strong>Download Full Project Report (PDF)</strong></a>
 </p>
 
 ---
