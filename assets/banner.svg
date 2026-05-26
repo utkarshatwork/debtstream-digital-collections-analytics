@@ -15,7 +15,7 @@
     fill="#FFFFFF"
     text-anchor="middle"
     dominant-baseline="middle"
-  >DEBTSTREAM</text>
+  >DebtStream</text>
 
   <!-- Orange subtitle -->
   <text
@@ -27,7 +27,7 @@
     fill="#F47B20"
     text-anchor="middle"
     dominant-baseline="middle"
-  >Digital Collections Analytics</text>
+  >Digital Collections Analysis</text>
 
   <!-- Light blue tagline -->
   <text
