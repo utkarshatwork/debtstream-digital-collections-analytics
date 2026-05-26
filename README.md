@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="assets/DebtStream Logo" alt="DebtStream Digital Collections Analytics" width="180"/>
+  <img src="assets/banner.svg" alt="DebtStream Digital Collections Analytics"/>
 </p>
 
-<h1 align="center" style="color:#111A33;">DebtStream: Digital Collections Analytics</h1>
-<h3 align="center" style="color:#F47B20;">Digital Collections Funnel and Payment Journey Optimisation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white"/>
@@ -18,7 +16,7 @@
 ---
 
 <p align="center">
-  📄 <a href="https://github.com/utkarshisatwork/debtstream-digital-collections-analytics/raw/main/docs/DebtStream_Analysis_Report.pdf"><strong>Download Full Project Report (PDF)</strong></a>
+  📄 <a href="docs/DebtStream_Analysis_Report.pdf"><strong>Download Full Project Report (PDF)</strong></a>
 </p>
 
 ---
@@ -80,10 +78,10 @@ DebtStream_Digital_Collections_Project/
 ├── .gitignore
 │
 ├── assets/
-│   ├── DebtStream Logo                         # Project logo
-│   ├── Overview & Funnel Performance           # Power BI Page 1 screenshot
-│   ├── SMS AB Test                             # Power BI Page 2 screenshot
-│   └── Risk & Recovery                         # Power BI Page 3 screenshot
+│   ├── banner.svg                              # Project banner
+│   ├── Overview & Funnel Performance.png       # Power BI Page 1 screenshot
+│   ├── SMS AB Test.png                         # Power BI Page 2 screenshot
+│   └── Risk & Recovery.png                     # Power BI Page 3 screenshot
 │
 ├── data/
 │   └── raw/
@@ -181,15 +179,15 @@ Affordability completion stands out as the most underutilised lever in the datas
 
 **Page 1: Overview and Funnel Performance**
 
-![Overview and Funnel Performance](assets/Overview%20%26%20Funnel%20Performance)
+![Overview and Funnel Performance](assets/Overview%20%26%20Funnel%20Performance.png)
 
 **Page 2: SMS A/B Test and Messaging Strategy**
 
-![SMS AB Test](assets/SMS%20AB%20Test)
+![SMS AB Test](assets/SMS%20AB%20Test.png)
 
 **Page 3: Segment Recovery and Risk**
 
-![Risk and Recovery](assets/Risk%20%26%20Recovery)
+![Risk and Recovery](assets/Risk%20%26%20Recovery.png)
 
 ---
 
