@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="DebtStream Digital Collections Analysis"/>
+  <img src="assets/banner.svg" alt="DebtStream Digital Collections Analytics"/>
 </p>
 
 
